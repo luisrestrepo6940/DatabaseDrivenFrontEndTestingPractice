@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/Java-red?style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/luisrestrepo6940?style=flat&logo=github)
 ![Static Badge](https://img.shields.io/badge/Serenity-8A2BE2?style=flat-square)
-![Static Badge](https://img.shields.io/badge/Apache-POI-blue?style=flat-square)
+![Static Badge](https://img.shields.io/badge/SQLite_JDBC-org.xerial-blue?style=flat-square)
 
 ### CONTENT
 
@@ -17,13 +17,13 @@
 
 ### INTRODUCTION
 
-Automated graphical user interface testing project by taking test data from an xlsx file, through a data-driven strategy using the Java API for Microsoft Apache POI documents.
+Automated graphical user interface testing project by taking test data from an SQLite database, through a data-driven strategy using SQLite JDBC for accessing and creating SQLite database files in Java (it includes native libraries).
 
 [![Go Back Badge](https://img.shields.io/badge/Back-gray?style=flat)](#content)
 
 ### REQUIREMENTS
 
-* Apache POI Common » 5.3.0 - Apache POI - Java API To Access Microsoft Format Files.
+* SQLite JDBC » 3.49.1.0 - SQLite JDBC is a library for accessing and creating SQLite database files in Java.
 * Serenity-core: 4.2.0.
 * Serenity-junit: 4.2.0.
 * Serenity-screenplay: 4.2.0.
@@ -35,7 +35,7 @@ Automated graphical user interface testing project by taking test data from an x
 
 ### RECOMMENDED
 
-Use amazon corretto - 11.0.24 and Apache POI Common » 5.3.0 - Apache POI - Java API To Access Microsoft Format Files.
+Use amazon corretto - 11.0.24 and SQLite JDBC » 3.49.1.0 - SQLite JDBC is a library for accessing and creating SQLite database files in Java.
 
 [![Go Back Badge](https://img.shields.io/badge/Back-gray?style=flat)](#content)
 
