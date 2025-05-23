@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="353e7aff-daaf-4745-8e53-c9ea221ed06f" name="Changes" comment="Crear proyecto" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="PracticeDataDrivenExcelFrontEndTesting" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1747070794" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2uuFWJBZtUl0VTsJoWWNTmRKr0y" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build PracticaPruebasAutomatizadasDataDrivenExcel.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.PracticaPruebasAutomatizadasDataDrivenExcel [clean build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.PracticeDataDrivenCsvFrontEndTesting [:CsvReader.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.PracticeDataDrivenExcelFrontEndTesting [clean test --tests co.com.certification.practiceautomatedtesting.runners.practiceautomatedtesting.TestRunnerBuyProducts aggregate].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.PracticeDataDrivenExcelFrontEndTesting [clean test default].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.PracticeDataDrivenExcelFrontEndTesting [clean test].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.PracticeDataDrivenExcelFrontEndTesting [clean verify].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.TestRunnerBuyProducts.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [clean,verify,-Denvironment=chrome].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/PracticeDataDrivenExcelFrontEndTesting&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/PracticaPruebasAutomatizadasDataDrivenExcel/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DatabaseDrivenFrontEndTestingPractice" />
+      <recent name="C:\PracticaPruebasAutomatizadasDataDrivenExcel\src\main\java\co\com\certification\practiceautomatedtesting\questions" />
+      <recent name="C:\PracticaPruebasAutomatizadasDataDrivenExcel\src\main\java\co\com\certification\practiceautomatedtesting\tasks" />
+      <recent name="C:\PracticaPruebasAutomatizadasDataDrivenExcel\src\main\java\co\com\certification\practiceautomatedtesting\userinterfaces" />
+      <recent name="C:\PracticaPruebasAutomatizadasDataDrivenExcel\src\main\java\co\com\certification\practiceautomatedtesting\interactions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PracticaPruebasAutomatizadasDataDrivenExcel\src\test\java\co\com\certification\practiceautomatedtesting\stepdefinitions" />
+      <recent name="C:\PracticaPruebasAutomatizadasDataDrivenExcel\src\test\java\co\com" />
+      <recent name="C:\PracticaPruebasAutomatizadasDataDrivenExcel\src" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="co.com.certification.practiceautomatedtesting.stepdefinitions" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="co.com.certification.practiceautomatedtesting.tasks" />
+      <recent name="co.com.certification.practiceautomatedtesting.utils.various" />
+      <recent name="co.com.certification.practiceautomatedtesting.runners.practiceautomatedtesting" />
+      <recent name="co.com.certification.practiceautomatedtesting.stepdefinitions" />
+      <recent name="co.com.certification.practiceautomatedtesting.stepdefinitions.practiceautomatedtesting" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle clean build" />
+      <command value="mvn clean verify -Denvironment=chrome" />
+      <command value="gradle clean verify -Denvironment=chrome" />
+      <command value="gradle clean test -Denvironment=firefox, default" />
+      <command value="gradle clean test -Denvironment=firefox;default" />
+      <command value="gradle clean test -Denvironment=edge" />
+      <command value="gradle clean test -Denvironment=chrome" />
+      <command value="gradle clean test -Ddrivers=firefox" />
+      <command value="gradle clean test -Denvironment=firefox" />
+      <command value="clean test --tests co.com.certification.practiceautomatedtesting.runners.practiceautomatedtesting.TestRunnerBuyProducts aggregate --info" />
+      <command value="gradle clean test --tests co.com.certification.practiceautomatedtesting.runners.practiceautomatedtesting.TestRunnerBuyProducts aggregate --info" />
+      <command value="gradle clean test --tests co.com.certification.practiceautomatedtesting.runners.practiceautomatedtesting.TestRunnerBuyProducts -Denvironment=firefox aggregate --info" />
+      <command value="gradle clean test --tests co.com.certification.practiceautomatedtesting.runners.practiceautomatedtesting.TestRunnerBuyProducts -Denvironment=chrome aggregate --info" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.TestRunnerBuyProducts">
+    <configuration name="CsvReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.com.certification.practiceautomatedtesting.utils.various.CsvReader" />
+      <module name="PracticeDataDrivenCsvFrontEndTesting.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.com.certification.practiceautomatedtesting.utils.various.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeDataDrivenExcelFrontEndTesting [clean test --tests co.com.certification.practiceautomatedtesting.runners.practiceautomatedtesting.TestRunnerBuyProducts aggregate]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--info" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="test" />
+            <option value="--tests" />
+            <option value="co.com.certification.practiceautomatedtesting.runners.practiceautomatedtesting.TestRunnerBuyProducts" />
+            <option value="aggregate" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="PracticeDataDrivenExcelFrontEndTesting [clean test default]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="-Denvironment=firefox," />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="test" />
+            <option value="default" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="PracticeDataDrivenExcelFrontEndTesting [clean test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="-Denvironment=firefox" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRunnerBuyProducts" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="-Denvironment=chrome" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;co.com.certification.practiceautomatedtesting.runners.practiceautomatedtesting.TestRunnerBuyProducts&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.CsvReader" />
+      <item itemvalue="Gradle.PracticeDataDrivenExcelFrontEndTesting [clean test --tests co.com.certification.practiceautomatedtesting.runners.practiceautomatedtesting.TestRunnerBuyProducts aggregate]" />
+      <item itemvalue="Gradle.PracticeDataDrivenExcelFrontEndTesting [clean test default]" />
+      <item itemvalue="Gradle.PracticeDataDrivenExcelFrontEndTesting [clean test]" />
+      <item itemvalue="Gradle.TestRunnerBuyProducts" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TestRunnerBuyProducts" />
+        <item itemvalue="Application.CsvReader" />
+        <item itemvalue="Gradle.PracticeDataDrivenExcelFrontEndTesting [clean test --tests co.com.certification.practiceautomatedtesting.runners.practiceautomatedtesting.TestRunnerBuyProducts aggregate]" />
+        <item itemvalue="Gradle.PracticeDataDrivenExcelFrontEndTesting [clean test default]" />
+        <item itemvalue="Gradle.PracticeDataDrivenExcelFrontEndTesting [clean test]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="353e7aff-daaf-4745-8e53-c9ea221ed06f" name="Changes" comment="" />
+      <created>1743090586357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743090586357</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
