@@ -150,8 +150,6 @@ The sample projects both use some Serenity features which make configuring the t
 The WebDriver configuration is managed entirely from this file, as illustrated below:
 ```java
 
-headless.mode = true
-
 environments {
   chrome {
     webdriver {
