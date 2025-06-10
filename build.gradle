@@ -31,7 +31,6 @@ dependencies {
     implementation "net.serenity-bdd:serenity-screenplay:$rootProject.ext.serenityVersion"
     implementation "net.serenity-bdd:serenity-cucumber:$rootProject.ext.serenityCucumberVersion"
     implementation 'org.slf4j:slf4j-simple:2.0.5'
-    implementation("com.opencsv:opencsv:5.11")
     implementation("net.serenity-bdd:serenity-ensure:4.2.0")
     implementation("org.xerial:sqlite-jdbc:3.49.1.0")
 
